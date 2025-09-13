@@ -1,0 +1,24 @@
+Detecting Fake Reviews Using Multidimensional Representations With Fine-Grained Aspects Plan
+
+Fake reviews detection, multidimensional representations, relationship modeling,
+ne-grained aspects.
+
+Detecting_Fake_Reviews 
+
+detecting_fake_reviews 
+
+
+review_prediction
+
+
+Product_Review
+Prediction
+
+
+
+review_prediction,detection_ratio,detection_accuracy
+
+
+detection_accuracy.objects.create(names="Logistic Regression", ratio=accuracy_score(y_test, pred_lr) * 100)
+
+
